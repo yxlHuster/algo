@@ -1,5 +1,7 @@
 package LeetCode;
 
+import common.ListNode;
+
 /**
  * Created with IntelliJ IDEA.
  * User: yongleixiao
@@ -77,14 +79,6 @@ public class AddTwoNumber {
 		return  head;
 	}
 
-	public class ListNode {
-		int val;
-		ListNode next;
-		public ListNode(int x) {
-			val = x;
-			next = null;
-		}
-	}
 
 	public void doTest() {
 		ListNode l1 = new ListNode(2);

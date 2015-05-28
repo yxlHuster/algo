@@ -33,6 +33,29 @@ public class ReverseInteger {
 		return r;
 	}
 
+    public int reverse2(int x) {
+        int rev = 0;
+        while (x != 0) {
+            if (rev != 0 && Integer.MAX_VALUE / rev < 10
+                    && Integer.MAX_VALUE / rev > -10)
+                return 0;
+            rev += rev * 10 + x%10;
+            x /= 10;
+        }
+        return rev;
+    }
+
+    public int reverse3(int x) {
+        int max = 1 << 31;
+        int ret = 0;
+        for (; x != 0; x/=10) {
+            if (ret != 0 && max/ret < 10 && max/ret > -10)
+                return 0;
+            ret += ret * 10 + x%10;
+        }
+        return ret;
+    }
+
 	public static void main(String[] args) {
 		ReverseInteger reverseInteger = new ReverseInteger();
 		System.out.println(reverseInteger.reverse(-21474838));
