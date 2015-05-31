@@ -3,15 +3,25 @@
   <component name="ChangeListManager">
     <list default="true" id="830a18a8-1a90-4173-bc41-265660d64842" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LeetCode.iml" afterPath="$PROJECT_DIR$/LeetCode.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/LeetCode/WordBreak.java" afterPath="$PROJECT_DIR$/src/main/java/LeetCode/WordBreak.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path=".idea/dataSources.local.xml" />
-    <file path="/Dummy.txt" changelist="830a18a8-1a90-4173-bc41-265660d64842" time="1432974675987" ignored="false" />
+    <file path="/Dummy.txt" changelist="830a18a8-1a90-4173-bc41-265660d64842" time="1433055507026" ignored="false" />
     <file path="/RandomListCopy.java" changelist="830a18a8-1a90-4173-bc41-265660d64842" time="1432979810740" ignored="false" />
+    <file path="D:/adrd/spark/rec-spark/rec-spark/ctr/src/main/java/com/sohu/adrd/tools/TextFeatureExtractor.java" changelist="830a18a8-1a90-4173-bc41-265660d64842" time="1433046353503" ignored="false" />
+    <file path="/TextFeatureExtractor.java" changelist="830a18a8-1a90-4173-bc41-265660d64842" time="1433046350751" ignored="false" />
+    <file path="D:/adrd/spark/rec-spark/rec-spark/ctr/src/main/java/com/sohu/adrd/tools/Vectorize.java" changelist="830a18a8-1a90-4173-bc41-265660d64842" time="1433046540722" ignored="false" />
+    <file path="/Vectorize.java" changelist="830a18a8-1a90-4173-bc41-265660d64842" time="1433046540722" ignored="false" />
+    <file path="/Interval.java" changelist="830a18a8-1a90-4173-bc41-265660d64842" time="1433059938324" ignored="false" />
+    <file path="/MergeInterval.java" changelist="830a18a8-1a90-4173-bc41-265660d64842" time="1433060793819" ignored="false" />
+    <file path="/MediaTSortArray.java" changelist="830a18a8-1a90-4173-bc41-265660d64842" time="1433062161618" ignored="false" />
+    <file path="/CloneGrap.java" changelist="830a18a8-1a90-4173-bc41-265660d64842" time="1433065201707" ignored="false" />
+    <file path="/WordLadder.java" changelist="830a18a8-1a90-4173-bc41-265660d64842" time="1433068292197" ignored="false" />
+    <file path="/MergeTSortedArray.java" changelist="830a18a8-1a90-4173-bc41-265660d64842" time="1433069167166" ignored="false" />
+    <file path="/MergeTSortedList.java" changelist="830a18a8-1a90-4173-bc41-265660d64842" time="1433069959749" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +81,39 @@
     <favorites_list name="LeetCode" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="WordLadder.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/WordLadder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="57" column="52" selection-start="1770" selection-end="1770" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#666#674#0" expanded="true" />
+                <element signature="e#738#747#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MergeTSortedArray.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/MergeTSortedArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="31" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MergeTSortedList.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/MergeTSortedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="70" column="28" selection-start="1761" selection-end="1761" vertical-scroll-proportion="0.9302752">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -89,14 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/web/HelixMatrix.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LeetCode/Pow.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LeetCode/Sqrt.java" />
-        <option value="$PROJECT_DIR$/src/main/java/web/StrSplitter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LeetCode/ThreeSum.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/LeetCode/SingleNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LeetCode/ReverseInteger.java" />
         <option value="$PROJECT_DIR$/src/main/java/common/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/LeetCode/BTreeInOrderTraversal.java" />
         <option value="$PROJECT_DIR$/src/main/java/LeetCode/AddTwoNumber.java" />
@@ -105,6 +139,14 @@
         <option value="$PROJECT_DIR$/src/main/java/LeetCode/ReversePolishNotation.java" />
         <option value="$PROJECT_DIR$/src/main/java/LeetCode/WordBreak.java" />
         <option value="$PROJECT_DIR$/src/main/java/LeetCode/RandomListCopy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/common/Interval.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LeetCode/MergeInterval.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LeetCode/MergeTSortArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LeetCode/MediaTSortArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LeetCode/CloneGrap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LeetCode/WordLadder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LeetCode/MergeTSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LeetCode/MergeTSortedList.java" />
       </list>
     </option>
   </component>
@@ -184,7 +226,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -238,10 +279,6 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -267,36 +304,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="LeetCode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RandomListCopy.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -357,6 +364,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -660,7 +668,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -676,10 +684,10 @@
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25757575" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22651514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25984848" sideWeight="0.7619048" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25984848" sideWeight="0.7619048" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23664123" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -687,8 +695,8 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1303602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -768,101 +776,116 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/ContainerMost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/RegularMatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/LongestPalindromicStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/LongestSubStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/web/HelixMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Sqrt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Pow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/LetterCombinations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/AddTwoNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/ReverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/WordBreak.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="28" selection-start="972" selection-end="972" vertical-scroll-proportion="0.66906476">
-          <folding />
-        </state>
+        <state line="33" column="28" selection-start="972" selection-end="972" vertical-scroll-proportion="0.66906476" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/LinkListCycle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="97" selection-end="97" vertical-scroll-proportion="0.23920864">
-          <folding />
-        </state>
+        <state line="7" column="13" selection-start="97" selection-end="97" vertical-scroll-proportion="0.23920864" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/RandomListCopy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="23" selection-start="2246" selection-end="2246" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1563#1595#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="90" column="23" selection-start="2246" selection-end="2246" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="212" selection-end="212" vertical-scroll-proportion="-0.073741004">
-          <folding />
-        </state>
+        <state line="12" column="13" selection-start="212" selection-end="212" vertical-scroll-proportion="-0.073741004" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/common/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="70" selection-end="70" vertical-scroll-proportion="0.17086332">
+        <state line="5" column="13" selection-start="70" selection-end="70" vertical-scroll-proportion="0.17086332" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/common/Interval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="4" selection-start="351" selection-end="351" vertical-scroll-proportion="0.61290324">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/MergeInterval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="25" selection-start="1074" selection-end="1074" vertical-scroll-proportion="0.6165138">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#612#622#0" expanded="true" />
+            <element signature="e#1178#1453#0" expanded="true" />
+            <element signature="e#1442#1443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/RegularMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="36" selection-start="544" selection-end="544" vertical-scroll-proportion="0.5816514">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/MediaTSortArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="4" selection-start="2298" selection-end="2298" vertical-scroll-proportion="0.9302752">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/CloneGrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="26" selection-start="1649" selection-end="1649" vertical-scroll-proportion="0.82568806">
+          <folding>
+            <element signature="e#743#785#0" expanded="true" />
+            <element signature="e#926#947#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Str2Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="190" selection-end="190" vertical-scroll-proportion="-0.4256881">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Pow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="34" selection-start="466" selection-end="472" vertical-scroll-proportion="0.6469534">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Sqrt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="189" selection-end="189" vertical-scroll-proportion="0.30645162">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/WordLadder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="52" selection-start="1770" selection-end="1770" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#666#674#0" expanded="true" />
+            <element signature="e#738#747#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/MergeTSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="31" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/MergeTSortedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="28" selection-start="1761" selection-end="1761" vertical-scroll-proportion="0.9302752">
           <folding />
         </state>
       </provider>
