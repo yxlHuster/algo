@@ -11,8 +11,6 @@ public class WordBreak {
         return wordBreakHelper(s, dict, 0);
     }
 
-
-
     public boolean wordBreakHelper(String s, Set<String> dict, int start) {
         if (start == s.length()) return true;
         for (String d : dict) {
