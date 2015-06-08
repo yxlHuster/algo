@@ -41,7 +41,7 @@ public class QuickSort {
         QuickSort quickSort = new QuickSort();
         quickSort.qsort(array, low, high);
 
-        for (int i = 0; i < high; i++) {
+        for (int i = 0; i <= high; i++) {
             System.out.println(array[i]);
         }
     }
