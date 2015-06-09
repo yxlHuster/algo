@@ -57,6 +57,24 @@ public class PalindNumber {
 		return true;
 	}
 
+    public boolean isPalindrome3(int x) {
+        //negative numbers are not palindrome
+        if (x < 0) return false;
+        int dev = 1;
+        // initialize how many zeros
+        while (x / dev >= 10) {
+            dev *= 10;
+        }
+        while ( x != 0) {
+            int left = x / dev;
+            int right = x % 10;
+            if (left != right) return false;
+            x = (x%dev)/10;//
+            dev /= 100; //
+        }
+        return true;
+    }
+
 	public static void main(String[] args) {
 		PalindNumber palindNumber = new PalindNumber();
 		System.out.println(palindNumber.isPalindome2(1221));
