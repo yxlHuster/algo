@@ -1,7 +1,7 @@
 package LeetCode;
 
 /**
- * Created by allen on 6/8/15.
+ * Created by author on 6/8/15.
  */
 public class SortedArray2BTree {
 

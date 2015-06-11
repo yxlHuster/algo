@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * Created by allen on 5/28/15.
+ * Created by author on 5/28/15.
  */
 public class WordBreak {
 

@@ -1,7 +1,7 @@
 package LeetCode;
 
 /**
- * Created by allen on 5/18/15.
+ * Created by author on 5/18/15.
  */
 public class MaxSubArray {
 

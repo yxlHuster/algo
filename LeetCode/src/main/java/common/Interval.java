@@ -2,7 +2,7 @@ package common;
 
 /**
  * Created with IntelliJ IDEA.
- * User: yongleixiao
+ * User: author
  * Date: 15-5-31
  * Time: 下午4:11
  * To change this template use File | Settings | File Templates.

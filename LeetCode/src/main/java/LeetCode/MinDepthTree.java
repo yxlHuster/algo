@@ -4,7 +4,7 @@ import java.util.LinkedList;
 
 /**
  * Created with IntelliJ IDEA.
- * User: yongleixiao
+ * User: author
  * Date: 15-6-9
  * Time: 下午4:44
  * To change this template use File | Settings | File Templates.

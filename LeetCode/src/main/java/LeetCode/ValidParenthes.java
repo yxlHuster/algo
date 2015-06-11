@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.Stack;
 
 /**
- * Created by allen on 6/3/15.
+ * Created by author on 6/3/15.
  */
 public class ValidParenthes {
 

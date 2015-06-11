@@ -1,7 +1,7 @@
 package web;
 
 /**
- * Created by allen on 5/21/15.
+ * Created by author on 5/21/15.
  */
 public class QuickSort {
 

@@ -4,7 +4,7 @@ import common.ListNode;
 
 /**
  * Created with IntelliJ IDEA.
- * User: yongleixiao
+ * User: author
  * Date: 15-3-10
  * Time: 上午9:27
  * To change this template use File | Settings | File Templates.

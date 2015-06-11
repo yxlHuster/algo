@@ -3,7 +3,7 @@ package LeetCode;
 import java.util.Stack;
 
 /**
- * Created by allen on 5/28/15.
+ * Created by author on 5/28/15.
  */
 public class ReversePolishNotation {
 

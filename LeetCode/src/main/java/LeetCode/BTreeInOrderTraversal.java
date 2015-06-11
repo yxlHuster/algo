@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Stack;
 
 /**
- * Created by allen on 5/25/15.
+ * Created by author on 5/25/15.
  */
 
 class TreeNode {

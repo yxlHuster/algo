@@ -4,7 +4,7 @@ package LeetCode;
 import java.util.Arrays;
 
 /**
- * Created by yongleixiao on 2015/3/18.
+ * Created by author on 2015/3/18.
  */
 public class ThreeSumClosest {
 

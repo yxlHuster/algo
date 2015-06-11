@@ -2,7 +2,7 @@ package LeetCode;
 
 /**
  * Created with IntelliJ IDEA.
- * User: yongleixiao
+ * User: author
  * Date: 15-3-11
  * Time: 下午3:40
  * To change this template use File | Settings | File Templates.
