@@ -8,8 +8,7 @@ package LeetCode;
  * To change this template use File | Settings | File Templates.
  */
 
-import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.*;
 
 /**
  *
@@ -50,6 +49,43 @@ public class CombinationSum {
             curr.remove(curr.size() - 1);
         }
 
+    }
+
+
+    public List<ArrayList<Integer>> combinationSum2(int[] num, int target) {
+        ArrayList<ArrayList<Integer>> result = new ArrayList<ArrayList<Integer>>();
+        if(num == null || num.length == 0)
+            return result;
+
+        Arrays.sort(num);
+
+        ArrayList<Integer> temp = new ArrayList<Integer>();
+        getCombination(num, 0, target, temp, result);
+
+        Set<ArrayList<Integer>> set = new HashSet<ArrayList<Integer>>(result);
+
+        //remove duplicate lists
+        result.clear();
+        result.addAll(set);
+
+        return result;
+    }
+
+    public void getCombination(int[] num, int start, int target, ArrayList<Integer> temp, ArrayList<ArrayList<Integer>> result){
+        if(target == 0){
+            ArrayList<Integer> t = new ArrayList<Integer>(temp);
+            result.add(t);
+            return;
+        }
+
+        for(int i=start; i<num.length; i++){
+            if(target < num[i])
+                continue;
+
+            temp.add(num[i]);
+            getCombination(num, i+1, target-num[i], temp, result);
+            temp.remove(temp.size()-1);
+        }
     }
 
 }

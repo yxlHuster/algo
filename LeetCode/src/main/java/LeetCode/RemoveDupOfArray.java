@@ -26,6 +26,8 @@ public class RemoveDupOfArray {
         int i = 1;
         int j = 0;
         while (i < A.length) {
+
+            /*
             if (A[i] == A[j]) {
                 i++;
             } else {
@@ -33,6 +35,12 @@ public class RemoveDupOfArray {
                 A[j] = A[i];
                 i++;
             }
+            */
+            if (A[i] != A[j]) {
+                A[j] = A[i];
+                j++;
+            }
+            i++;
         }
         return j + 1;
     }
@@ -69,6 +77,8 @@ public class RemoveDupOfArray {
         }
         return A.length - count;
     }
+
+
 
 
 }
