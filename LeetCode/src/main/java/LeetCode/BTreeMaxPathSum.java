@@ -34,7 +34,7 @@ public class BTreeMaxPathSum {
         if (root == null) return 0;
         int left = calculateSum(root.left, max);
         int right = calculateSum(root.right, max);
-        int current = Math.max(root.value, Math.max(root.value + left, root.value + right));
+        int current = Math.max(root.value, Math.max(root.value + left, root.value + right)); // max path of children
         max[0] = Math.max(max[0], Math.max(current, root.value + left + right));
         return current;
     }
