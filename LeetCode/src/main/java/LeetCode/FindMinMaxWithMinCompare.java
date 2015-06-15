@@ -44,7 +44,7 @@ public class FindMinMaxWithMinCompare {
         if (a.length == 1) {
             max = a[0];
             min = a[0];
-            System.out.println("min: " + min + "\nmax: " + max);
+            System.out.println("min: " + min + "nmax: " + max);
             return;
         }
 

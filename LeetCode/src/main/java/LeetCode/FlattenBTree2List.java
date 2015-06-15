@@ -27,7 +27,7 @@ public class FlattenBTree2List {
             if (p.right != null) {
                 stack.push(p.right);
             }
-            if (p.left != null) {
+            if (p.left !=  null) {
                 p.right = p.left;
                 p.left = null;
             } else if (!stack.isEmpty()) {

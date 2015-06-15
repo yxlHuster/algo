@@ -32,6 +32,8 @@ public class LetterCombinations {
             current.append(keyboard[num].charAt(i));
             buildResult(digits, index + 1, current, keyboard, result);
             current.deleteCharAt(current.length() - 1);
+
+
         }
     }
 }
