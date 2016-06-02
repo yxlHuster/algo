@@ -25,7 +25,8 @@
         <module name="LeetCode" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.6" />
+    <bytecodeTargetLevel target="1.7">
+      <module name="LeetCode" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
-
